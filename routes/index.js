@@ -5,7 +5,7 @@ router.get("/", async (req, res, next) => {
   console.log("received request");
   return res.send({
     "success": true,
-    "message": "Oh HAI!!"
+    "message": "Oh HAI2!!"
   });
 });
 
