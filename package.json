@@ -1,0 +1,31 @@
+{
+  "name": "caprover-node-app",
+  "version": "0.0.1",
+  "description": "generic ecommerce server",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon ./index.js",
+    "prod": "cross-env NODE_ENV=production node ./index.js",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohzd/caprover-node-app.git"
+  },
+  "keywords": [
+    "buy"
+  ],
+  "author": "vohzd",
+  "bugs": {
+    "url": "https://github.com/vohzd/caprover-node-app/issues"
+  },
+  "homepage": "https://github.com/vohzd/caprover-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.1"
+  }
+}
