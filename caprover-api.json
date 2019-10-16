@@ -1,0 +1,10 @@
+{
+  "caproverName": "dazzling",
+  "caproverUrl": "captain.vohzd.com",
+  "path": "/user/apps/appDefinitions/register",
+  "method": "POST",
+  "data": {
+    appName: "iamtesting444",
+    hasPersistentData: false
+  }
+}
