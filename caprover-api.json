@@ -4,7 +4,7 @@
   "path": "/user/apps/appDefinitions/register",
   "method": "POST",
   "data": {
-    appName: "iamtesting444",
+    appName: "iamtesting666",
     hasPersistentData: false
   }
 }
